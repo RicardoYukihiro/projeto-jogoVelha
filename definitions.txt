@@ -1,22 +1,18 @@
-OK 1) Apresentar as seguintes opções para o usuário:
+1) Apresentar as seguintes opções para o usuário:
     1 - Iniciar novo jogo
     2 - Sair do jogo
 
-OK - 2) Quando iniciar jogo devemos solicitar o nome do jogador 1 e nome 
+2) Quando iniciar jogo devemos solicitar o nome do jogador 1 e nome 
 do jogador 2
 
-OK 3) A aplicação deve solicitar com a seguinte frase que o jogador jogue a rodada.
+3) A aplicação deve solicitar com a seguinte frase que o jogador jogue a rodada.
 Jogador1, sua vez.
 Jogador2, sua vez
 
 4) Criar lógica para acontecer o jogo. 
 
-OK 5) Criar lógica para desenhar o jogo da velha
+5) Criar lógica para desenhar o jogo da velha
  
 6) Quando houver um vencedor a aplicação deve retornar a frase abaixo e sair do jogo
 Jogador jogador1 venceu, parabéns !
 Aguardar 5 segundos e voltar para o menu inicial
-
-
-Link: https://www.figma.com/file/MadrAHCO2Wp9SiP6l7BpVe/Untitled?node-id=0%3A1
-
